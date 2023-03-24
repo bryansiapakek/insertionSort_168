@@ -69,6 +69,14 @@ void display() {		// Procedure Display
 	for (int j = 0; j < n; j++) {					// Looping denganj dimualai dari 0 hingga ke n-1
 		cout << arr[j] << endl;						// Output ke layar
 	}
+	cout << endl;									// Output baris kosong
+}
+
+int main()
+{
+	input();			// memanggil input
+	insertionsort();	// memanggil insertionsort
+	display();			// 
 
 	
   
