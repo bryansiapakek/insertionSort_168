@@ -1,0 +1,4 @@
+﻿  insertionSort.cpp
+C:\abd 2\insertionSort\insertionSort\insertionSort.cpp(56,3): error C2143: syntax error: missing ';' before 'for'
+C:\abd 2\insertionSort\insertionSort\insertionSort.cpp(77,2): error C3861: 'input': identifier not found
+C:\abd 2\insertionSort\insertionSort\insertionSort.cpp(76): fatal  error C1075: '{': no matching token found
