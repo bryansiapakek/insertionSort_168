@@ -60,6 +60,16 @@ void insertionsort() {			// Procedure Insertiondort
 	}
 }
 
+void display() {		// Procedure Display
+	cout << endl;												// Output baris kosong
+	cout << "\n================================" << endl;	// Output ke layar
+	cout << "Elment Array yang telah tersusun" << endl;		// Output ke layar
+	cout << "==================================" << endl;	// Output ke layar 
+
+	for (int j = 0; j < n; j++) {					// Looping denganj dimualai dari 0 hingga ke n-1
+		cout << arr[j] << endl;						// Output ke layar
+	}
+
 	
   
 
